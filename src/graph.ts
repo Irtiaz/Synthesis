@@ -122,7 +122,7 @@ export const graph: Graph = {
   aldehyde: [
     {
       type: 'alkane',
-      instruction: 'perform Clemmensen reduction or Walf Kishner reduction',
+      instruction: 'perform Clemmensen reduction or Wolff Kishner reduction',
     },
 
     {
@@ -149,7 +149,7 @@ export const graph: Graph = {
   ketone: [
     {
       type: 'alkane',
-      instruction: 'perform Clemmensen reduction or Walf Kishner reduction',
+      instruction: 'perform Clemmensen reduction or Wolff Kishner reduction',
     },
 
     {
