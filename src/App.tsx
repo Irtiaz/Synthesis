@@ -86,7 +86,7 @@ function App() {
           bactracking algorithm to connect the pieces together
         </div>
         <div style={{ color: 'tomato' }}>
-          Catuion: This is not supposed to be used as your guide book! It's only
+          Caution: This is not supposed to be used as your guide book! It's only
           a toy project.
         </div>
       </div>
