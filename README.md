@@ -1,4 +1,4 @@
-# Organic Chemistry Synthesis
+# [Organic Chemistry Synthesis](https://organic-synthesis.netlify.app/)
 
 This program has been taught discrete reactions and it uses dfs bactracking algorithm to connect the pieces together
 
